@@ -2,3 +2,6 @@
 /bitrix/managed_cache/
 /bitrix/cache/
 /upload/tmp/
+**/cache
+**/tmp
+**/managed_cache
