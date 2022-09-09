@@ -1,1 +1,0 @@
-<?php $filesInfo = ["/local/templates/blog/css/style.css" => "150617406440171",]; ?>

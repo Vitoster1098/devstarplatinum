@@ -8,6 +8,13 @@ $aMenuLinks = Array(
 		"" 
 	),
 	Array(
+		"Тестовое задание", 
+		"/test-task", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
 		"About", 
 		"/about/", 
 		Array(), 

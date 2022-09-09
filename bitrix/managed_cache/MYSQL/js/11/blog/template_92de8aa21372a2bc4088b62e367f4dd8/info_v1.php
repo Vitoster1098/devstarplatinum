@@ -1,1 +1,0 @@
-<?php $filesInfo = ["/local/templates/blog/js/jquery-1.11.1.min.js" => "145035736895786",]; ?>
