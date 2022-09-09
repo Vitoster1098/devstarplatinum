@@ -31,7 +31,7 @@ $APPLICATION->SetTitle("Тестовое задние"); ?>
     $arSelect = ['NAME', 'SORT'];
     $arFilter = ['IBLOCK_ID' => '1', 'ACTIVE' => 'Y'];
     $arSort = ['DATE_CREATE' => 'DESC'];
-    $maxSort = -1; //переменная для записи максимального значения сортировки, нужно для кода и сортировки
+    $maxSort = 1; //переменная для записи максимального значения сортировки, нужно для кода и сортировки
     if(CModule::IncludeModule("iblock")):
         //формируем объект с пар-ми: сортировки, фильтрации, вывода 5ти записей, требуемых значений
         $res = CIBlockElement::GetList($arSort, $arFilter, false, ['nTopCount' => '5'], $arSelect);
