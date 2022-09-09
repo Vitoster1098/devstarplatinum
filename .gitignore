@@ -1,2 +1,4 @@
 .idea
-bitrix/managed_cache/
+/bitrix/managed_cache/
+/bitrix/cache/
+/upload/tmp/
