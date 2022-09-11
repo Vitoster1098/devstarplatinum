@@ -48,7 +48,7 @@ return array (
         'host' => 'localhost',
         'database' => 'bitrix_devstar',
         'login' => 'root',
-        'password' => '',
+        'password' => 'root',
         'options' => 2.0,
       ),
     ),
