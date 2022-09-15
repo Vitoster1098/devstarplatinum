@@ -6,7 +6,7 @@ $APPLICATION->SetTitle("Блог");?>
 		"ADD_SECTIONS_CHAIN" => "N",	// Включать раздел в цепочку навигации
 		"AJAX_MODE" => "N",	// Включить режим AJAX
 		"AJAX_OPTION_ADDITIONAL" => "",	// Дополнительный идентификатор
-		"AJAX_OPTION_HISTORY" => "N",	// Включить эмуляцию навигации браузера
+		"AJAX_OPTION_HISTORY" => "Y",	// Включить эмуляцию навигации браузера
 		"AJAX_OPTION_JUMP" => "N",	// Включить прокрутку к началу компонента
 		"AJAX_OPTION_STYLE" => "Y",	// Включить подгрузку стилей
 		"CACHE_FILTER" => "N",	// Кешировать при установленном фильтре
